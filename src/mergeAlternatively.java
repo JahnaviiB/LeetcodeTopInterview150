@@ -1,5 +1,7 @@
 public class mergeAlternatively {
     public static String mergeAlternatively(String w1,String w2){
+        StringBuilder merged = new StringBuilder();
+        int max_lenght = Math.max(w1.length(),w2.length());
 
     }
     public static void main(String[] args){
